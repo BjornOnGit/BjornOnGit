@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-francis-eze-ogonnaya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-eze-ogonnaya/)](https://www.linkedin.com/in/francis-eze-ogonnaya/) [![Twitter Badge](https://img.shields.io/badge/-@Fhranco1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Fhranco1)](https://twitter.com/Fhranco1)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-eze-ogonnaya/)](https://www.linkedin.com/in/francis-eze-ogonnaya/) [![Twitter Badge](https://img.shields.io/badge/-@Fhranco1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Fhranco1)](https://twitter.com/Fhranco1)
 
 I'm a Software Engineer and backend web developer, who is currently learning and building as a Fullstack Software Engineering student at [ALX](https://alxafrica.com). I'm passionate about building web APIs that will power the next generation of world-changing applications.
 
